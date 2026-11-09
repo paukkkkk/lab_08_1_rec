@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\laptop\\source\\repos\\lab_08_1_rec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7341C143-B808-1C0D-20CA-7F7CBE2BA9F3}|UnitTest_lab_08_1_rec\\UnitTest_lab_08_1_rec.vcxproj|C:\\Users\\laptop\\source\\repos\\lab_08_1_rec\\UnitTest_lab_08_1_rec\\UnitTest_lab_08_1_rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7341C143-B808-1C0D-20CA-7F7CBE2BA9F3}|UnitTest_lab_08_1_rec\\UnitTest_lab_08_1_rec.vcxproj|solutionrelative:UnitTest_lab_08_1_rec\\UnitTest_lab_08_1_rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427185B3-5B93-45EC-A533-15C4EF169485}|lab_08_1_rec\\lab_08_1_rec.vcxproj|C:\\Users\\laptop\\source\\repos\\lab_08_1_rec\\lab_08_1_rec\\lab_08_1_rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{427185B3-5B93-45EC-A533-15C4EF169485}|lab_08_1_rec\\lab_08_1_rec.vcxproj|solutionrelative:lab_08_1_rec\\lab_08_1_rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest_lab_08_1_rec.cpp",
+              "DocumentMoniker": "C:\\Users\\laptop\\source\\repos\\lab_08_1_rec\\UnitTest_lab_08_1_rec\\UnitTest_lab_08_1_rec.cpp",
+              "RelativeDocumentMoniker": "UnitTest_lab_08_1_rec\\UnitTest_lab_08_1_rec.cpp",
+              "ToolTip": "C:\\Users\\laptop\\source\\repos\\lab_08_1_rec\\UnitTest_lab_08_1_rec\\UnitTest_lab_08_1_rec.cpp",
+              "RelativeToolTip": "UnitTest_lab_08_1_rec\\UnitTest_lab_08_1_rec.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-09T14:14:48.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab_08_1_rec.cpp",
+              "DocumentMoniker": "C:\\Users\\laptop\\source\\repos\\lab_08_1_rec\\lab_08_1_rec\\lab_08_1_rec.cpp",
+              "RelativeDocumentMoniker": "lab_08_1_rec\\lab_08_1_rec.cpp",
+              "ToolTip": "C:\\Users\\laptop\\source\\repos\\lab_08_1_rec\\lab_08_1_rec\\lab_08_1_rec.cpp",
+              "RelativeToolTip": "lab_08_1_rec\\lab_08_1_rec.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-08T16:44:06.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
